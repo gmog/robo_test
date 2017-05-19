@@ -1,7 +1,7 @@
 *** Settings ***
 
 *** Test Cases ****
-My Test Case
+My Test Case one
 	Tee Jotain
 	This fails
 	
@@ -10,5 +10,5 @@ My Test Case
 Tee Jotain
 	Log	Log Message
 	
-This will fail
+This fails
 	1 is greater than 2
